@@ -1,7 +1,6 @@
 {
   "name": "db-bridge",
   "version": "1.0.0",
-  "description": "Database bridge for PHP to PostgreSQL",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
